@@ -6,6 +6,8 @@ FROM
 WHERE
     last_name = 'Whalen';
     
+    --
+    
 SELECT
     last_name,
     job_id,

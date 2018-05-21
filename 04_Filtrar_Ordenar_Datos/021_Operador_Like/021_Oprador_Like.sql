@@ -4,7 +4,6 @@ Operador Like
 
 */
 
-
 SELECT
     first_name
 FROM
